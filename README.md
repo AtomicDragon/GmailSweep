@@ -10,4 +10,4 @@ Good for cleaning out emails that post daily or weekly newsletters.
 A detailed blog post with more information can be found at https://benbjurstrom.com/purge-email
 
 # Acknowledgements
-Thanks to [this gist](https://gist.github.com/benbjurstrom/00cdfdb24e39c59c124e812d5effa39a)) by Ben Bjurstorm for getting me started in the right direction.
+Thanks to [this gist](https://gist.github.com/benbjurstrom/00cdfdb24e39c59c124e812d5effa39a) by Ben Bjurstorm for getting me started in the right direction.
